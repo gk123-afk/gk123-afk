@@ -58,7 +58,7 @@
 - 📧 Email: [gautamkumar11a@gmail.com](mailto:gautamkumar11a@gmail.com)  
 - 🔗 [LinkedIn](https://linkedin.com/in/gautam-kumar-8b0b6b278)  
 - 🧠 [LeetCode](https://leetcode.com/gautam_1820)  
-- 💼 [Resume](https://drive.google.com/file/d/13Ypy3_F6_FzdmIJG0dI0kiM3-A6Dxa2E/view?usp=sharing)
+- 💼 [Internship Certificate](https://drive.google.com/file/d/13Ypy3_F6_FzdmIJG0dI0kiM3-A6Dxa2E/view?usp=sharing)
 
 ---
 
